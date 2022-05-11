@@ -1,0 +1,8 @@
+[INFO ] 2022-05-05 09:31:18.052 [main] LoggerDemo - log infotrmation message
+[ERROR] 2022-05-05 09:31:18.073 [main] LoggerDemo - log error message
+[FATAL] 2022-05-05 09:31:18.074 [main] LoggerDemo - log fatal medssage
+[WARN ] 2022-05-05 09:31:18.075 [main] LoggerDemo - log warn message
+[INFO ] 2022-05-05 13:19:28.734 [main] ConfigDemo - I am in this browser:Chrome
+[INFO ] 2022-05-05 13:19:50.392 [main] ConfigDemo - Chrome Driver loaded successfuly
+[INFO ] 2022-05-05 13:22:46.774 [main] ConfigDemo - I am in this browser:IE
+[INFO ] 2022-05-05 13:23:14.125 [main] ConfigDemo - IE Driver loaded successfuly
